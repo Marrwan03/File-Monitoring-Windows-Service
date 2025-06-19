@@ -2,11 +2,19 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">👀Elevator Pitch:</h2>
 
 ###
 
 <h3 align="left">This service tracks files in specific folders, processes them efficiently, and maintains logs to ensure transparency.</h3>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -18,11 +26,19 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">📢Target group:</h2>
 
 ###
 
 <h3 align="left">It`s important for anyone wants Monitoring a specific folder.</h3>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -70,11 +86,19 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">🧰Techniques and tools used:</h2>
 
 ###
 
 <h3 align="left">I used C# .Net Frameworks and FileSystemWatcher.</h3>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -86,6 +110,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">🎥Video About Service:</h2>
 
 ###
@@ -93,6 +121,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
